@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "409698297806",
+    "firebase_url": "https://pstu-photography-club.firebaseio.com",
+    "project_id": "pstu-photography-club",
+    "storage_bucket": "pstu-photography-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409698297806:android:615d352f53cf3dd3",
+        "android_client_info": {
+          "package_name": "com.example.pstuphotographyclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409698297806-osjvugcqjahlu0u63oqut1rpct220bhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfQzzFea0rJ9Q0m_IvGxZTbKKMMxpNGuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
